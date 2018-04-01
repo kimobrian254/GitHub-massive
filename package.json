@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "repos:get":"node get-and-delete-repos.js"
+  },
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "request": "^2.85.0"
+  },
+  "name": "github-massive",
+  "version": "1.0.0",
+  "description": "Delete github repos on large scale",
+  "main": "index.js",
+  "repository": "git@personal:kimobrian254/GitHub-massive.git",
+  "author": "kimobrian254",
+  "license": "MIT"
+}
